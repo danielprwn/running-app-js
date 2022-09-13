@@ -1,11 +1,10 @@
-# JavaScript running web app, mile tracker. 
+# JavaScript Running Web App, Mile Tracker. 
+
+✔ Add, edit, update and delete your running info - CRUD.
+✔ Filter your running info. 
 
 
-✔ Search movies.
-✔ Read more info about movies.
-
-
-## Technologies ✅ HTML ✅ CSS JavaScript
+## Technologies ✅ HTML ✅ CSS 🟨 JavaScript
 
 Download the repository and run it locally:
 
